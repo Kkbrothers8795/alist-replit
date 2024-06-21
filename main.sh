@@ -4,5 +4,6 @@ if [ ! -f "alist" ];then
   tar -zxvf alist.tar.gz
   rm -f alist.tar.gz
   mkdir ~/data
-  cp config.json ~/data/config.json
+  rm /workspace/data/config.json
+  cp config.json /workspace/data/config.json
 fi
