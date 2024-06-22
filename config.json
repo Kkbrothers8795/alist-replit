@@ -12,7 +12,7 @@
     "password": "AVNS_A4VQJ2nRH7O3Rb-jl4j",
     "name": "defaultdb",
     "db_file": "data/data.db",
-    "table_prefix": "Alist_",
+    "table_prefix": "Alist_Koyeb_",
     "ssl_mode": "true",
     "dsn": ""
   },
